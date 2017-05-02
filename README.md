@@ -1,24 +1,3 @@
-# README
+Hi,
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is my first repository. I created it because I want to learny Ruby on Rails. Alpha-blog is a simply application to learn basics of web-development with Ruby.
